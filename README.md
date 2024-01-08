@@ -18,10 +18,12 @@ Welcome to the Body Mass Index (BMI) Calculator Flutter app! This simple and use
 
 ## Screenshots
 
-![Screenshot 1](screenshots/Screenshot1.png)
+![Screenshot 1](screenshots/Screenshot2.png)
+
 *Caption: Input screen where users can enter their height and weight.*
 
-![Screenshot 2](screenshots/Screenshot2.png)
+![Screenshot 2](screenshots/Screenshot1.png)
+
 *Caption: Results screen displaying the calculated BMI and corresponding category.*
 
 ## Getting Started
