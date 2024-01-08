@@ -56,7 +56,7 @@ If you'd like to contribute to the development of the BMI Calculator app, feel f
 
 ## License
 
-This BMI Calculator Flutter app is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This BMI Calculator Flutter app is licensed under the MIT License. See the [LICENSE](https://opensource.org/licenses/MIT) file for details.
 
 ## Contact
 For any questions or feedback, please contact the project maintainer at kshubham767@gmail.com.
